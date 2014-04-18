@@ -11,9 +11,9 @@ meta.foundation-version{font-family:"/5.2.2/"}meta.foundation-mq-small{font-fami
   font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 600;
-  src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url('fonts/JosefinSansSemiBold.woff') format('woff');
+  src: url('fonts/BetecknaLowerCase.eot');
+  src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url('fonts/JosefinSansSemiBold.woff') format('woff'),  url('fonts/JosefinSansSemiBold.ttf') format('truetype') ;
 }
-
 
 h1 {
   font-family: 'BetecknaLowerCase';
