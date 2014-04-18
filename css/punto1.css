@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Conv_BetecknaLowerCase';
+	font-family: 'BetecknaLowerCase';
 	src: url('fonts/BetecknaLowerCase.eot');
 	src: local('☺'), url('fonts/BetecknaLowerCase.woff') format('woff'), url('fonts/BetecknaLowerCase.ttf') format('truetype'), url('fonts/BetecknaLowerCase.svg') format('svg');
 	font-weight: normal;
@@ -7,7 +7,7 @@
 }
 
 h1 {
-  font-family: 'Conv_BetecknaLowerCase';
+  font-family: 'BetecknaLowerCase';
   text-align: justify;
   text-justify: newspaper;
   font-size: 2.15rem;
@@ -35,7 +35,7 @@ ul {
 }
 
 #contactinfo tr td {
-  font-family: 'Conv_BetecknaLowerCase';
+  font-family: 'BetecknaLowerCase';
   line-height:0.25rem;
 }
 
@@ -51,7 +51,7 @@ ul {
 */
 
 .blogdate {
-  font-family: 'Conv_BetecknaLowerCase';
+  font-family: 'BetecknaLowerCase';
   font-size: 0.75rem;
   margin-bottom: 0.625rem;
 }
